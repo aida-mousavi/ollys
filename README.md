@@ -1,11 +1,5 @@
-s://www.linkedin.com/in/aida-mousavi-18791a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-https://instagram.com/dev.mousavi?igshid=OGQ5ZDc2ODk2ZA==
-
-        <a href = "mailto:dev.mousavi@gmail.com">dev.mousavi@gmail.com</a>
-
-
-# Butter
+# Ollys
 
 - [Demo Project](https://ollys.vercel.app/)
 
@@ -13,7 +7,7 @@ https://instagram.com/dev.mousavi?igshid=OGQ5ZDc2ODk2ZA==
 
 - Created - 2023-10
 
-- Technologies Used - HTML5 , Tailwind , JS
+- Technologies Used - React.js - Tailwind - formik
 
 - Role - Frontend
 
