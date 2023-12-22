@@ -1,7 +1,5 @@
 
 # Ollys
-![Screenshot 2023-12-22 174705](https://github.com/aida-mousavi/ollys/assets/115708698/2e27eef9-c64a-4fdc-854e-b41173021f43)
-![Screenshot 2023-12-22 174725](https://github.com/aida-mousavi/ollys/assets/115708698/029e20b7-c6f8-4d0e-bafe-17f47a6623cb)
 ![Screenshot 2023-12-22 174524](https://github.com/aida-mousavi/ollys/assets/115708698/9887f3ce-e3ab-4252-b983-ef225ad3fcf9)
 ![Screenshot 2023-12-22 174553](https://github.com/aida-mousavi/ollys/assets/115708698/2222dd29-865b-42ec-8639-69dc3524e96a)
 ![Screenshot 2023-12-22 174641](https://github.com/aida-mousavi/ollys/assets/115708698/2d91b3f6-955e-4271-b7b9-f2e15d7bc81e)
