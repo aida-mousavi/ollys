@@ -1,12 +1,12 @@
 
 # Ollys
 
--Online shopping site
--product selection page
--buyer information registration page
--shipping method selection
--using localStorage for cart
--product purchase and price calculation according to the number and type of product
+- Online shopping site
+- Pproduct selection page
+- Buyer information registration page
+- Shipping method selection
+- Using localStorage for cart
+- Product purchase and price calculation according to the number and type of product
 
 ![Screenshot 2023-12-22 174524](https://github.com/aida-mousavi/ollys/assets/115708698/9887f3ce-e3ab-4252-b983-ef225ad3fcf9)
 ![Screenshot 2023-12-22 174553](https://github.com/aida-mousavi/ollys/assets/115708698/2222dd29-865b-42ec-8639-69dc3524e96a)
