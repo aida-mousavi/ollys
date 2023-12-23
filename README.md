@@ -2,7 +2,8 @@
 # Ollys
 
 - Online shopping site
-- Pproduct selection page
+- API
+- Product selection page
 - Buyer information registration page
 - Shipping method selection
 - Using localStorage for cart
